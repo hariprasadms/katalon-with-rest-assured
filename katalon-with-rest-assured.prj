@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>katalon-with-rest-assured</name>
+   <tag></tag>
+   <UUID>98904ad2-37b7-4261-929e-2971d8c23474</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
